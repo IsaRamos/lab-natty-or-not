@@ -1,4 +1,4 @@
-# Potencialidades do Uso de IA para o RPG 🤖🎲
+# Potencialidades do Uso de IA para o RPG 🎲
 
 ## 📜 Descrição
 Este e-book com 6 páginas foi o resultado de uma reflexão sobre boas práticas de utilização de IA para um hobby que eu tenho muito apreço: jogar RPG de mesa com amigos.
